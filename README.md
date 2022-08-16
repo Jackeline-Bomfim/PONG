@@ -7,5 +7,5 @@
 Utilize as setas UP e DOWN do seu teclado para movimentar a raquete.
 
 <p>
-<img wigth="460" height="300" src="20220815-213555.gif">
+<img wigth="460" height="300" src="pong/20220815-213555.gif">
 </p>
