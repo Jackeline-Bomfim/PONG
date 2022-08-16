@@ -6,4 +6,6 @@
 
 Utilize as setas UP e DOWN do seu teclado para movimentar a raquete.
 
-<img wigth="460" height="300" src
+<p>
+<img wigth="460" height="300" src="20220815-213555.gif">
+</p>
